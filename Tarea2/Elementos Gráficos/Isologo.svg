@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="139.15187mm"
-   height="87.799736mm"
-   viewBox="0 0 139.15187 87.799736"
+   width="109.09187mm"
+   height="67.546829mm"
+   viewBox="0 0 109.09187 67.546829"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -12,7 +12,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
      id="layer1"
-     transform="translate(-30.231311,-60.15017)"><g
+     transform="translate(-47.987847,-60.15017)"><g
        style="fill:#000000"
        id="g3"
        transform="matrix(0.11620109,0,0,0.12157138,66.152866,50.501282)"><g
@@ -65,22 +65,12 @@
 	</g>
 </g></g><text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.2028px;font-family:Commissioner;-inkscape-font-specification:'Commissioner Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#c9d45c;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-         x="-268.20618"
-         y="752.23279"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.2888px;font-family:Commissioner;-inkscape-font-specification:'Commissioner Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#c9d45c;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+         x="206.52994"
+         y="589.38702"
          id="text43"
-         transform="scale(1.0228467,0.97766361)"><tspan
+         transform="scale(1.0509985,0.95147614)"><tspan
            id="tspan43"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.2028px;font-family:Commissioner;-inkscape-font-specification:'Commissioner Bold';stroke-width:0"
-           x="-268.20618"
-           y="752.23279">RONALD PICADO HERNÁNDEZ</tspan></text><text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4579px;font-family:Commissioner;-inkscape-font-specification:Commissioner;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#c9d45c;stroke-width:0"
-         x="-306.89514"
-         y="809.64575"
-         id="text1"
-         transform="scale(1.0228467,0.97766361)"><tspan
-           id="tspan1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4579px;font-family:Commissioner;-inkscape-font-specification:Commissioner;stroke-width:0"
-           x="-306.89514"
-           y="809.64575">Donde la tecnología se encuentra con la imaginación</tspan></text></g></g></svg>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:87.2888px;font-family:Commissioner;-inkscape-font-specification:'Commissioner Bold';stroke-width:0"
+           x="206.52994"
+           y="589.38702">RPH</tspan></text></g></g></svg>
