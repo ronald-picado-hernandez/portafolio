@@ -16,6 +16,7 @@
             "baseHref": "/portafolio/",
             "outputPath": "dist/rphportafolio/browser",
             "browser": "src/main.ts",
+            "index": "src/index.html",
             "polyfills": [
               "zone.js"
             ],
